@@ -1,11 +1,5 @@
 {
   "version": 2,
   "name": "ikigai",
-  "cleanUrls": true,
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/primary-patterns-041118.framer.app/index.html"
-    }
-  ]
+  "cleanUrls": true
 }
