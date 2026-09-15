@@ -1,0 +1,40 @@
+========================================================
+  Website Downloader — Download Report
+  https://websitedownloader.io
+========================================================
+
+Status:         Completed
+Started at:     2026-09-15 19:00:52 UTC
+Completed at:   2026-09-15 19:02:33 UTC
+Download ID:    01M2K72QRWWPBNR8TDZMXD3K37
+
+--- Source ---
+URL:            https://primary-patterns-041118.framer.app
+Resolved URL:   https://primary-patterns-041118.framer.app/
+
+--- Settings ---
+Mode:           Full site (auto)
+URL rewriting:  Relative (works offline)
+Max pages:      1
+Max depth:      1
+
+--- Results ---
+HTML pages:     1
+Total files:    129
+Duration:       1m 41s
+
+--- JavaScript Rendering ---
+Rendered pages: 0
+Static pages:   1
+
+========================================================
+  Thanks for using Website Downloader!
+--------------------------------------------------------
+  Need bigger downloads, more pages, or full sites?
+  https://websitedownloader.io/upgrade
+
+  - Pro:       up to 200 pages per download, 1-hour timeout
+  - Unlimited: unlimited pages, unlimited depth, 24-hour timeout
+
+  Smart proxy + JS rendering included on paid plans.
+========================================================
